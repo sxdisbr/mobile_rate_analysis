@@ -1,2 +1,2 @@
 # mobile_rate_analysis
-We are going analyze the behavior of customers who have contracted a plan for mobile
+The task is to analyze two tariffs plans to adjust the advertising budget. The commercial which tariff brings in more money. We are going to work with a small sample of customers, 500 Megalyne users. We want to know who they are, where they come from, what tariff they use, how many calls, and mesages sent in 2018. We are going analyze the behavior of customers and conclude which tariff is better.
